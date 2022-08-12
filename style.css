@@ -27,3 +27,8 @@
 width: 40px;
 }
 
+body{
+    background-image: url(shiva.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vh;
+}
